@@ -3,7 +3,7 @@
   "source": "youtube",
   "title": "27 November 2023",
   "author": "",
-  "thumbnail": "https://i.ytimg.com/vi/c_vCrQxeSgg/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa2Q",
+  "thumbnail": "thumbnail link ",
   "duration": 144,
   "medias": [
     {
