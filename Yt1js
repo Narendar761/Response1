@@ -1,0 +1,12 @@
+{
+  "platform": "YouTube",
+  "status": true,
+  "title": "title",
+  "thumb": "thumbnail link",
+  "video": "sd video download link",
+  "video_hd": "hd video download link ",
+  "audio": "audio download link",
+  "quality": "360p/720p",
+  "channel": "Not available",
+  "desc": "Not available"
+}
